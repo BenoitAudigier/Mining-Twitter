@@ -5,7 +5,7 @@ This app presents several graphs, such as:
 * A map with a connection between the location of the account you entered the name of (ex : "RedStarFC", a French Football Club), and its followers' location.
 ![Alt text](results/mapRedStarFC.png)
 * A world cloud with the most common words associated to the account
-![Alt text](results/mapRedStarFC.png)
+![Alt text](results/wordCloud.png)
 * Graphs about the sentiments related to the tweets about the account, and the polarity (positve or negative)
 ![Alt text](results/emotionsRedStarFC.png)
 ![Alt text](results/polarityRedStarFC.png)
